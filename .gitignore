@@ -1,0 +1,10 @@
+# AnyLogic build outputs & temporary files
+bin/
+out/
+*.tmp
+*.log
+.DS_Store
+
+# Office / Excel temporary lock files
+~$*.xlsx
+~$*.xls
