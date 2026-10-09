@@ -1,9 +1,9 @@
 # 🏭 Self-Healing Manufacturing Simulation
 
-![AnyLogic](https://img.shields.io/badge/AnyLogic-Discrete%20Event%20%26%20Agents-blue)
-![Java](https://img.shields.io/badge/Language-Java-orange)
-![Industry 4.0](https://img.shields.io/badge/Domain-Smart%20Manufacturing-green)
-![Autonomic Systems](https://img.shields.io/badge/Architecture-Self--Healing%20Agents-purple)
+[![AnyLogic](https://img.shields.io/badge/AnyLogic-Discrete%20Event%20%26%20Agents-blue)](https://www.anylogic.com/)
+[![Java](https://img.shields.io/badge/Language-Java-orange)](https://www.oracle.com/java/)
+[![Industry 4.0](https://img.shields.io/badge/Domain-Smart%20Manufacturing-green)](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution)
+[![Autonomic Systems](https://img.shields.io/badge/Architecture-Self--Healing%20Agents-purple)](https://en.wikipedia.org/wiki/Autonomic_computing)
 
 An agent-based and discrete-event **AnyLogic simulation** modeling an Industry 4.0 self-healing smart factory system. The model evaluates reactive vs. dynamic agent-driven decision strategies ($D_0, D_1, D_2$) across multiple production plans under sudden machine breakdowns ($M_1, M_3$) and quality defects ($M_4$).
 
